@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+    padding: auto;
+    background-color: greenyellow;
+}
+.title{
+    background-color: white;
+}
+#show_sketch{
+    float:right;
+}
+#Time{
+    float: right;
+    margin-right: 50px;
+    font-size: 30px !important;
+}
+#Score{
+    float: left;
+    font-size: 30px !important;
+}
+.content{
+    background-color: white;
+}
+#confidence{
+    font-size: 30px !important;
+}
